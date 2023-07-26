@@ -1,6 +1,6 @@
 # fp
 
-A new Flutter project.
+Collaborative development in classroom groups, responsible for implementing the 'Drawer' and 'home page'.
 
 ## Getting Started
 
